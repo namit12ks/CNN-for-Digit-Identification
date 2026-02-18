@@ -33,14 +33,6 @@ The CNN architecture includes:
 
 ---
 
-## Results
-
-- Final Test Accuracy: **~98%**
-- Feature maps and intermediate activations can be visualized.
-- The network successfully learns hierarchical features from handwritten digit images.
-
----
-
 ### ▶ To Visualize Feature Extraction Process
 
 Run: PlotFeatures
