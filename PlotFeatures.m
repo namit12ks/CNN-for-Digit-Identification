@@ -2,7 +2,7 @@ load ('MnistConv.mat')
 
 % Forward pass for one image
 
-    k = 3; % third image 
+    k = 11; % third image 
     x = X(:, :, k);
     y1 = Conv(x, W1);           % convoution 20x20x20
     y2 = ReLU(y1);              %
