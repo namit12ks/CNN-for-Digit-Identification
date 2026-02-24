@@ -50,15 +50,17 @@ This evaluates the trained model and prints the final classification accuracy.
 
 ### ▶ Visualization of Feature Extraction 
 
-<img src="Result_Visualisation/Figure_1,1.png" alt="Input Image" width="400"/>
-
-<img src="Result_Visualisation/Figure_1,2.png" alt="Convolution Filters" width="400"/>
-
-<img src="Result_Visualisation/Figure_1,3.png" alt="Features after Convolution" width="400"/>
-
-<img src="Result_Visualisation/Figure_1,4.png" alt="Features after Convolution + ReLU" width="400"/>
-
-<img src="Result_Visualisation/Figure_1,5.png" alt="Features after Pooling" width="400"/>
+<p align="center">
+  <img src="Result_Visualisation/Figure_1,1.png" width="400" />
+  <img src="Result_Visualisation/Figure_1,2.png" width="400" />
+</p>
+<p align="center">
+  <img src="Result_Visualisation/Figure_1,3.png" width="400" />
+  <img src="Result_Visualisation/Figure_1,4.png" width="400" />
+</p>
+<p align="center">
+  <img src="Result_Visualisation/Figure_1,5.png" width="400" />
+</p>
 
 
 ---
