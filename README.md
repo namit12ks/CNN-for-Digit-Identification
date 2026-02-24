@@ -49,7 +49,7 @@ This evaluates the trained model and prints the final classification accuracy.
 ---
 
 ### ▶  Visualization of  Feature Extraction 
-(Figure_1,1)
+( Result_Visualisation/Figure_1,1 )
 (Figure_1,2)
 (Figure_1,3)
 (Figure_1,4)
