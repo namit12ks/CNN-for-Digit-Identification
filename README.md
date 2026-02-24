@@ -35,24 +35,30 @@ The CNN architecture includes:
 
 ### ▶ To Visualize Feature Extraction Process
 
-Run: PlotFeatures
+Run: `PlotFeatures`
 This displays intermediate feature maps and visualizes how the CNN processes the input image.
 
 ---
 
 ### ▶ To Test Model Accuracy
 
-Run:  TestMnist
+Run: `TestMnist`
 This evaluates the trained model and prints the final classification accuracy.
 
 
 ---
 
-### ▶  Visualization of  Feature Extraction 
-( Result_Visualisation/Figure_1,1 )
-(Figure_1,2)
-(Figure_1,3)
-(Figure_1,4)
+### ▶ Visualization of Feature Extraction 
+
+**Input Image (Digit 4)** ![Input Image](Result_Visualisation/Figure_1,1.png)
+
+**Convolution Filters (Kernels)** ![Convolution Filters](Result_Visualisation/Figure_1,2.png)
+
+**Features [Convolution]** ![Features after Convolution](Result_Visualisation/Figure_1,3.png)
+
+**Features [Convolution + ReLU]** ![Features after ReLU](Result_Visualisation/Figure_1,4.png)
+
+**Features [Convolution + ReLU + MaxPool]** ![Features after Pooling](Result_Visualisation/Figure_1,5.png)
 
 
 ---
@@ -63,4 +69,3 @@ Namit Sahu
 Roll No: 230102059  
 B.Tech – Electronics and Communication Engineering  
 Indian Institute of Technology Guwahati
-
