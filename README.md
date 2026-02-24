@@ -50,15 +50,15 @@ This evaluates the trained model and prints the final classification accuracy.
 
 ### ▶ Visualization of Feature Extraction 
 
-**Input Image (Digit 4)** ![Input Image](Result_Visualisation/Figure_1,1.png)
+**Input Image (Digit 3)** ![Input Image](Result_Visualisation/Figure_2,1.png)
 
-**Convolution Filters (Kernels)** ![Convolution Filters](Result_Visualisation/Figure_1,2.png)
+**Convolution Filters (Kernels)** ![Convolution Filters](Result_Visualisation/Figure_2,2.png)
 
-**Features [Convolution]** ![Features after Convolution](Result_Visualisation/Figure_1,3.png)
+**Features [Convolution]** ![Features after Convolution](Result_Visualisation/Figure_2,3.png)
 
-**Features [Convolution + ReLU]** ![Features after ReLU](Result_Visualisation/Figure_1,4.png)
+**Features [Convolution + ReLU]** ![Features after ReLU](Result_Visualisation/Figure_2,4.png)
 
-**Features [Convolution + ReLU + MaxPool]** ![Features after Pooling](Result_Visualisation/Figure_1,5.png)
+**Features [Convolution + ReLU + MaxPool]** ![Features after Pooling](Result_Visualisation/Figure_2,5.png)
 
 
 ---
